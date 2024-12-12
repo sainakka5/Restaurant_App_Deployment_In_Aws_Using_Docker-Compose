@@ -1,4 +1,4 @@
-<h1>  RESTAURANT MENU APPLICATION SETUP AND DEPLOYMENT </h1>
+<h1 align="center">  RESTAURANT MENU APPLICATION SETUP AND DEPLOYMENT </h1>
 
 Setting Up an AWS Instance Using Terraform:
 
